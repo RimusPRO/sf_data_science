@@ -1,18 +1,18 @@
-# Проект 0ю Угадай число
+# Проект 0. Угадай число
 
 ## Оглавление 
 
-[1. Описание проекта](https://Sskillfactory.ru/data-scientist).
-[2. Какой кейс решаем?]
-[3. Краткая информация о данных]
-[4. Этапы работы над проектом]
-[5. Результат]
-[6. Выводы]
+[1. Описание проекта](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Результат)
+[6. Выводы](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Выводы)
 
 ### Описание проекта 
 Угадать загаданное число компьютером за минимальное количество попыток.
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадываетчисло  за минимальное количество попыток.
@@ -27,4 +27,4 @@
 **Что практикуем**
 Учимся писать хороший код на Python.
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Оглавление)
