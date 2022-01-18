@@ -27,5 +27,7 @@
 
 **Что практикуем**
 Учимся писать хороший код на Python.
+Учимся работать с IDE.
+Учимся работать с GitHub.
 
 :arrow_up:[ к оглавлению](https://github.com/RimusPRO/sf_data_science/blob/project_0/project_0/README.md#Оглавление)
