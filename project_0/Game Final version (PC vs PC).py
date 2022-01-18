@@ -26,6 +26,7 @@ def random_predict(number: int = 1) -> int:
         predict_number = np.random.randint(y, y1)  # предполагаемое число
         if number == predict_number:
             break  # выход из цикла, если угадали
+        # каждый раз сужаем диапазон поиска искомого числа вдвое
         elif predict_number > number:
             y1 = y1 - (y1 - y) // 2
             number = y1 - (y1 - y) // 2
